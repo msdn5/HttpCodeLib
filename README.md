@@ -4,7 +4,7 @@ C# ,Powerful and easy Http crawler framework.Simple and crude.
 If you want to get more help, please visit http://bbs.msdn5.com
 
 ![xuanjibbs](http://bbs.msdn5.com/static/image/common/logo.png "Msdn5 Logo")
-
+```C#
 /* 
  * 当前版本:v3.3.16.07.01
  * 主版本号 3.3
@@ -265,3 +265,4 @@ If you want to get more help, please visit http://bbs.msdn5.com
 　　　　　　新增 字符串类型Cookie处理方法 ClearCookie 去除Cookie中的无用项.
 　　　　　　增加一键获取JS时间戳方法 (13位) 更改GetTime 方法为 GetTimeByJs
 　　　　　　增加一键获取C#时间戳方法(10位) 更改GetTimeStamp方法为 GetTimeByCSharp
+```
